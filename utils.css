@@ -1,0 +1,27 @@
+.bg-red{
+    /* background: red; */
+    /* align-items: center;
+    display: flex;
+    flex-direction: column; */
+    
+}
+
+.center{
+    text-align: center;
+    /* align-items: center;
+    display: flex;
+    flex-direction: column; */
+}
+
+.flex-container{
+    display:flex;
+}
+
+.flex-col{
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.item-center{
+    align-items: center;
+}
